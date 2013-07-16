@@ -4,8 +4,12 @@ CJK_WORDS
 裡/null/null/裏
 裏/null/null/裡
 沈/null/null/沉
+沉/null/null/沈
 曬/null/null/晒
 晒/null/null/曬
-溼/null/null/溼
+溼/null/null/濕
+濕/null/null/溼
 啟/null/null/啓
 啓/null/null/啟
+污/null/null/汙
+汙/null/null/污
