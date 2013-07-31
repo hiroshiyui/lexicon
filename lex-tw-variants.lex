@@ -13,3 +13,5 @@ CJK_WORDS
 啓/null/null/啟
 污/null/null/汙
 汙/null/null/污
+貍/null/null/狸
+狸/null/null/貍
